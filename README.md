@@ -9,21 +9,19 @@ when entering uniswaps website, check the current ETH network and pop up a windo
 
 ### By Social media
 
-Benefits of supporting layer 2 and L2 transactions at the top of relevant social media (including horseshoe)
+Benefits of supporting layer 2 and L2 transactions at the top of relevant social media 
 
 
 
 ## 2. Add Real user evaluation
 
-​	guides real user evaluation, after the transaction is completed, the pop-up window lets users evaluate this trading experience, 
+​	guides real user evaluation, after the transaction is completed, the pop-up window lets users evaluate this trading experience.
 
-​	and this evaluation is placed on the website after a period of time using UNISWAP, attracting more people L2
+​	and this evaluation is placed on the website after a period of time using UNISWAP, attracting more people use L2 on uniswap.
 
 
 
-## 3. Hold a reward activity
+## 3. Organize a reward activity
 
-Run a similar trading mining event,
-
- in which L2 trading pairs are rewarded for a certain period of time
+ organize an activity such as   trading mining event  which L2 trading pairs are rewarded for a certain period of time
 
